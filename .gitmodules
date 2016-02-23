@@ -1,0 +1,6 @@
+[submodule "nursing-home-app"]
+	path = nursing-home-app
+	url = https://github.com/kapil1garg/nursing-home-app
+[submodule "nursing-home-backend"]
+	path = nursing-home-backend
+	url = https://github.com/kapil1garg/nursing-home-backend
