@@ -1,0 +1,6 @@
+[submodule "nursing-home-backend"]
+	path = nursing-home-backend
+	url = git@github.com:kapil1garg/nursing-home-backend.git
+[submodule "nursing-home-app"]
+	path = nursing-home-app
+	url = git@github.com:kapil1garg/nursing-home-app.git
