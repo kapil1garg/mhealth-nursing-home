@@ -4,3 +4,7 @@
 [submodule "nursing-home-backend"]
 	path = nursing-home-backend
 	url = https://github.com/kapil1garg/nursing-home-backend
+[submodule "nursing-home-analytics"]
+	path = nursing-home-analytics
+	url = https://github.com/kapil1garg/nursing-home-analytics
+	branch = master
