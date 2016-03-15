@@ -8,3 +8,7 @@
 	path = nursing-home-analytics
 	url = https://github.com/kapil1garg/nursing-home-analytics
 	branch = master
+[submodule "nursing-home-website"]
+	path = nursing-home-website
+	url = git@github.com:kapil1garg/nursing-home-website.git
+	branch = master
